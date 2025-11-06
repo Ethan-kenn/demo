@@ -18,7 +18,10 @@
   allowfullscreen>
 </iframe>
 
-[![Watch RRR Again](https://yourdomain.com/rrr-thumbnail-with-play.png)](https://youtu.be/-dLe9C7z9dI)
+[![Watch RRR Again]([https://yourdomain.com/rrr-thumbnail-with-play.png](https://www.theroxytheater.org/wp-content/uploads/2022/05/rrr20again.jpg))](https://youtu.be/-dLe9C7z9dI)
+
+
+
 
 
 
