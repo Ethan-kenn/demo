@@ -45,7 +45,23 @@
       ![capte](https://github.com/user-attachments/assets/16ff091a-7986-4363-9ffe-093f49083532)
 
   - Database schema design.  
-- Understanding Bottlenecks:  
+- Understanding Bottlenecks:
+
+GIT HINTS :
+
+```bash
+# Clone this repository
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
+
+# Go into the repository
+$ cd electron-markdownify
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+
   - Perhaps your system needs a load balancer and many machines behind it to handle user requests; or maybe the data is so huge that you need to distribute your DB. What are the downsides?  
   - Is the database too slow and does it need some in-memory caching?  
 - Scaling your abstract design:  
