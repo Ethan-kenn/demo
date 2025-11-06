@@ -11,7 +11,10 @@
 - Clarify and agree on the scope of the system  
 - User cases (description of sequences of events that, taken together, lead to a system doing something useful)  
   - Who is going to use it?  
-  - How are they going to use it?  
+  - How are they going to use it?
+  - HERE IS OUR HEREO !!!
+    ![DeadPool](https://github.com/user-attachments/assets/d87db159-3937-44c1-bca5-0481064c916c)
+
 - Constraints:  
   - Mainly identify traffic and data-handling constraints at scale.  
   - Scale of the system such as requests per second, request types, data written per second, data read per second.  
