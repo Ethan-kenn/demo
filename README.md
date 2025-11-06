@@ -12,7 +12,12 @@
 
 
 
+# The three guarantees
 
+```text
+Consistency: Every read receives the most recent write or an error. All nodes see the same data at the same time.
+Availability: Every request receives a response, without the guarantee that it contains the most recent write. The system remains operational even if some nodes are down.
+Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) between nodes.
 
 
 
@@ -37,13 +42,8 @@
   - Application service layer (serves the requests)  
     - List different services required.
    
-```text
-# The three guarantees
 
-```text
-Consistency: Every read receives the most recent write or an error. All nodes see the same data at the same time.
-Availability: Every request receives a response, without the guarantee that it contains the most recent write. The system remains operational even if some nodes are down.
-Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) between nodes.
+
 
 
  
