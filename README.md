@@ -96,4 +96,9 @@ $ npm start
 | 10 | Jane | HR Manager | Human Resources | 🇦🇺 Australia | 5 yrs | ⭐⭐⭐⭐☆ | Active |
 
 
+| Icon | Description | Link |
+|------|--------------|------|
+| ![capte](https://github.com/user-attachments/assets/16ff091a-7986-4363-9ffe-093f49083532) | CAP Theorem Diagram | [Watch Video](https://youtu.be/-dLe9C7z9dI) |
+
+
 
