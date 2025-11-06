@@ -96,6 +96,17 @@ $ npm start
 | 3  | Charlie | Project Manager | Operations       | 🇨🇦 Canada    | 7 yrs      | ⭐⭐⭐⭐⭐  | On Leave    |
 | 4  | Diana   | QA Engineer     | Testing          | 🇩🇪 Germany   | 4 yrs      | ⭐⭐⭐⭐☆  | Active      |
 | 5  | Ethan   | DevOps          | Infrastructure   | 🇮🇳 India     | 6 yrs      | ⭐⭐⭐⭐☆  | Active      |
+
+
+
+| Profile                                                                                                            | Name              | Role               | Portfolio                              | Country    | Experience | Rating | Status      |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------------ | -------------------------------------- | ---------- | ---------- | ------ | ----------- |
+| <img src="https://avatars.githubusercontent.com/u/9919?s=100" width="70" height="70" style="border-radius:50%;">   | **Alice Johnson** | UI/UX Designer     | [🔗 Portfolio](https://dribbble.com)   | 🇺🇸 USA   | 5 yrs      | ⭐⭐⭐⭐☆  | 🟢 Active   |
+| <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="70" height="70" style="border-radius:50%;">   | **Bob Martin**    | Frontend Developer | [🔗 Portfolio](https://github.io)      | 🇬🇧 UK    | 4 yrs      | ⭐⭐⭐⭐☆  | 🟢 Active   |
+| <img src="https://avatars.githubusercontent.com/u/99167?v=4" width="70" height="70" style="border-radius:50%;">    | **Charlie Kim**   | Backend Engineer   | [🔗 Portfolio](https://charliekim.dev) | 🇰🇷 Korea | 6 yrs      | ⭐⭐⭐⭐⭐  | 🟡 On Leave |
+| <img src="https://avatars.githubusercontent.com/u/14101776?v=4" width="70" height="70" style="border-radius:50%;"> | **Diana Patel**   | Product Manager    | [🔗 Portfolio](https://linkedin.com)   | 🇮🇳 India | 7 yrs      | ⭐⭐⭐⭐⭐  | 🟢 Active   |
+| <img src="https://avatars.githubusercontent.com/u/36260654?v=4" width="70" height="70" style="border-radius:50%;"> | **Ethan Zhao**    | DevOps Engineer    | [🔗 Portfolio](https://ethanzhao.me)   | 🇨🇳 China | 5 yrs      | ⭐⭐⭐⭐☆  | 🔴 Busy     |
+
 | 6  | Fiona   | Analyst         | Data Science     | 🇫🇷 France    | 2 yrs      | ⭐⭐⭐☆☆  | Active      |
 | 7  | George  | Product Owner   | Product          | 🇯🇵 Japan     | 8 yrs      | ⭐⭐⭐⭐⭐  | Active      |
 | 8  | Hannah  | Support         | Customer Success | 🇧🇷 Brazil    | 1 yr       | ⭐⭐☆☆☆  | In Training |
