@@ -10,8 +10,13 @@
 # System Design Cheatsheet  
 **Picking the right architecture = Picking the right battles + Managing trade-offs**
 
-[![Poster image](https://www.theroxytheater.org/wp-content/uploads/2022/05/rrr20again.jpg)](https://youtu.be/-dLe9C7z9dI)
-
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/-dLe9C7z9dI"
+  title="RRR Again Trailer"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 ## Basic Steps  
