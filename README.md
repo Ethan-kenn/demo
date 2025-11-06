@@ -12,11 +12,11 @@
 - User cases (description of sequences of events that, taken together, lead to a system doing something useful)  
   - Who is going to use it?  
   - How are they going to use it?
-  - HERE IS OUR HEREO !!!
+ 
     <img src="https://github.com/user-attachments/assets/d87db159-3937-44c1-bca5-0481064c916c" 
      alt="DeadPool" 
      width="400" 
-     style="transform: rotate(90deg);">
+     style="transform: rotate(180deg);">
 
 
 - Constraints:  
