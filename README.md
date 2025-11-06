@@ -10,7 +10,7 @@
 # System Design Cheatsheet  
 **Picking the right architecture = Picking the right battles + Managing trade-offs**
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/-dLe9C7z9dI?si=qLjC2c6rkU1aPDhA)
+[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theroxytheater.org%2Fshow%2Frrr%2F&psig=AOvVaw3BdVpU23pGRSgZYSmK2yOX&ust=1762520145997000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDsxK3J3ZADFQAAAAAdAAAAABAE))](https://youtu.be/-dLe9C7z9dI?si=qLjC2c6rkU1aPDhA)
 
 
 ## Basic Steps  
