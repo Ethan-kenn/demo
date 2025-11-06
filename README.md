@@ -35,7 +35,19 @@
 - High level architecture design (Abstract design)  
   - Sketch the important components and connections between them, but don’t go into detail.  
   - Application service layer (serves the requests)  
-    - List different services required.  
+    - List different services required.
+   
+```text
+# The three guarantees
+
+Consistency: Every read receives the most recent write or an error. All nodes see the same data at the same time.
+
+Availability: Every request receives a response, without the guarantee that it contains the most recent write. The system remains operational even if some nodes are down.
+
+Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) between nodes. This means the system can function even if there are network issues or a communication failure between nodes.
+
+
+ 
   - Data Storage layer:
  
     
@@ -76,14 +88,5 @@ $ npm start
 - Scaling your abstract design:  
   - Vertical scaling — you scale by adding more power (CPU, RAM) to your existing machine.  
 
-
-```text
-# The three guarantees
-
-Consistency: Every read receives the most recent write or an error. All nodes see the same data at the same time.
-
-Availability: Every request receives a response, without the guarantee that it contains the most recent write. The system remains operational even if some nodes are down.
-
-Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) between nodes. This means the system can function even if there are network issues or a communication failure between nodes.
 
 
