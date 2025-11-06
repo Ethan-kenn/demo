@@ -80,8 +80,7 @@ $ npm start
 here coopy the user name and password :
 
 
-```base
+```text
+username: EhanKeen@9034
+password: World is full of love
 
-EhanKeen@9034
-
-World is full of love
