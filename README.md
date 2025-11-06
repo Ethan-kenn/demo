@@ -16,7 +16,7 @@
     <img src="https://github.com/user-attachments/assets/d87db159-3937-44c1-bca5-0481064c916c" 
      alt="DeadPool" 
      width="400" 
-     style="transform: rotate(180deg);">
+     style="transform: rotate(-180deg);">
 
 
 - Constraints:  
