@@ -102,3 +102,17 @@ $ npm start
 
 
 
+| ID | Name    | Role            | Department       | Country        | Experience | Rating | Status      |
+| -- | ------- | --------------- | ---------------- | -------------- | ---------- | ------ | ----------- |
+| 1  | Alice   | Developer       | Engineering      | 🇺🇸 USA       | 5 yrs      | ⭐⭐⭐⭐☆  | Active      |
+| 2  | Bob     | Designer        | UI/UX            | 🇬🇧 UK        | 3 yrs      | ⭐⭐⭐☆☆  | Active      |
+| 3  | Charlie | Project Manager | Operations       | 🇨🇦 Canada    | 7 yrs      | ⭐⭐⭐⭐⭐  | On Leave    |
+| 4  | Diana   | QA Engineer     | Testing          | 🇩🇪 Germany   | 4 yrs      | ⭐⭐⭐⭐☆  | Active      |
+| 5  | Ethan   | DevOps          | Infrastructure   | 🇮🇳 India     | 6 yrs      | ⭐⭐⭐⭐☆  | Active      |
+| 6  | Fiona   | Analyst         | Data Science     | 🇫🇷 France    | 2 yrs      | ⭐⭐⭐☆☆  | Active      |
+| 7  | George  | Product Owner   | Product          | 🇯🇵 Japan     | 8 yrs      | ⭐⭐⭐⭐⭐  | Active      |
+| 8  | Hannah  | Support         | Customer Success | 🇧🇷 Brazil    | 1 yr       | ⭐⭐☆☆☆  | In Training |
+| 9  | Ian     | Security Lead   | Cybersecurity    | 🇸🇬 Singapore | 9 yrs      | ⭐⭐⭐⭐⭐  | Active      |
+| 10 | Jane    | HR Manager      | Human Resources  | 🇦🇺 Australia | 5 yrs      | ⭐⭐⭐⭐☆  | Active      |
+
+
